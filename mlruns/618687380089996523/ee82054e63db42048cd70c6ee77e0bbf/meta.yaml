@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Khizar/7th%20Semester/Big%20Data/Assignment%204/mlruns/618687380089996523/ee82054e63db42048cd70c6ee77e0bbf/artifacts
+end_time: 1748689311576
+entry_point_name: ''
+experiment_id: '618687380089996523'
+lifecycle_stage: active
+run_id: ee82054e63db42048cd70c6ee77e0bbf
+run_name: capricious-elk-990
+run_uuid: ee82054e63db42048cd70c6ee77e0bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748689310531
+status: 3
+tags: []
+user_id: HP
